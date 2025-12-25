@@ -1,0 +1,6 @@
+venv/
+food/
+food_split/
+dataset_resep.csv
+*.jpg
+convert.py
